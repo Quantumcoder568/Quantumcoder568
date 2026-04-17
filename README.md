@@ -1,4 +1,4 @@
-#  Hi, I'm Maxwell Amoah
+#  Hi, I'm Maxwell Amoah Agyemang
 
 I am an aspiring front-end web developer from Ghana, passionate about building responsive and user-friendly websites. I enjoy turning ideas into clean and functional web interfaces using HTML, CSS, and JavaScript.
 
